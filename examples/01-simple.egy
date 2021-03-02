@@ -1,0 +1,12 @@
+This is a simple EGYSZER document.
+
+As you see, the body is plain text.
+
+At the end of the document, a special character sequence marks the end of the
+content block and start of the metadata section.
+
+In this file, metadata block is intentionally empty. See other examples on
+how to add metadata and what types are supported out-of-the-box.
+
+//======== START EGYSZER METADATA V1
+//======== END EGYSZER METADATA V1
