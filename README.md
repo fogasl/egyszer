@@ -1,2 +1,5 @@
 # egyszer
-Plain text with superpowers - base library
+
+Plain text with superpowers!
+
+Coming soon...
